@@ -8,6 +8,7 @@ import fs from "fs";
 import path from 'path';
 
 import crypto from 'crypto';
+import CryptoJS from 'crypto-js';
 
 import {EthWallet, MessageTypes} from "@okxweb3/coin-ethereum";
 
